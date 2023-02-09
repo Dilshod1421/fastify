@@ -1,0 +1,19 @@
+[{
+        "id": "68415f0b-0e15-4db8-9a9e-5cc626770d62",
+        "brand": "Hundai",
+        "model": "Sonata",
+        "price": "50000$"
+    },
+    {
+        "id": "45as123-0e15-4db8-9a9e-5cc626770d122",
+        "brand": "Mustang",
+        "model": "GT500",
+        "price": "30000$"
+    },
+    {
+        "id": "98asde3-0e15-4db8-9a9e-5cc62677gt785",
+        "brand": "Mercedes",
+        "model": "Benz",
+        "price": "100000$"
+    }
+]
